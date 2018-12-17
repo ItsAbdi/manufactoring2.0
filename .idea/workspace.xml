@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c6532ee3-7efc-4c43-8406-93605b97657c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/manufactoring2_0.java" afterDir="false" />
-    </list>
+    <list default="true" id="c6532ee3-7efc-4c43-8406-93605b97657c" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
